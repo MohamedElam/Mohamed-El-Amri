@@ -3,5 +3,3 @@ I am a software engineer with a passion for optimizing software processes. With 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/m%D0%BEhamed-elamri/)
-[![Gmail](https://img.shields.io/badge/otmanethedev@gmail.com-BB001B?style=flat&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:elamri.mohamed2001@gmail.com)
