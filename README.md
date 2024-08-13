@@ -14,8 +14,8 @@ I am a software engineer passionate about optimizing software processes, with a 
 ---
 # 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jenkins,gitlab,github,django,git,idea,java,linux,postman,py,react,ts,flutter,docker,bootstrap,ansible,bash,nodejs,Wordpress,&theme=dark,&perline=5)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,spring,PHP,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jenkins,gitlab,github,django,git,idea,java,linux,postman,py,react,ts,flutter,docker,bootstrap,ansible,bash,nodejs,Wordpress,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,spring,&theme=dark)](https://skillicons.dev)
 
 <!--
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
