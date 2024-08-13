@@ -6,9 +6,10 @@ I am a software engineer passionate about optimizing software processes, with a 
 ---
 # Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/m%D0%BEhamed-elamri/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed El Amri" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/m%D0%BEhamed-elamri/]" target="blank"> 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed El Amri" height="30" width="40" /></a>
 <a href="elamri.mohamed2001@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-in-alt.svg" alt="Email" height="30" width="40" />
 </a>
 </p>
 
